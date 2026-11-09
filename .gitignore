@@ -1,0 +1,4 @@
+AIM_Websocket_Library/
+venv/
+__pycache__/
+.DS_Store
